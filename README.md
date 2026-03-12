@@ -91,7 +91,7 @@ A full-stack web application that uses AI to generate balanced arguments and ana
 ```bash
 # Clone the repository
 git clone https://github.com/nanaaddae/Ai-Debate.git
-cd ai-debate-platform/backend
+cd ai-debate/ai-debate-backend
 
 # Create virtual environment
 python -m venv venv
@@ -122,7 +122,7 @@ Backend will be available at `http://localhost:8000`
 
 ```bash
 # In a new terminal
-cd ai-debate-platform/frontend
+cd ai-debate/frontend
 
 # Install dependencies
 npm install
