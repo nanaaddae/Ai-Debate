@@ -57,20 +57,25 @@ A full-stack web application that uses AI to generate balanced arguments and ana
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
 *Browse debates with advanced filtering and search*
+<img width="1236" height="837" alt="image" src="https://github.com/user-attachments/assets/788bb066-ffb8-47f7-ab1a-f7cf272bfda5" />
+
 
 ### Debate Detail
-![Debate Detail](screenshots/debate-detail.png)
 *AI-generated arguments, user contributions, and real-time voting*
+<img width="913" height="845" alt="image" src="https://github.com/user-attachments/assets/0b80e0ea-47f8-4e48-8efa-cb32f98c1424" />
+
+
 
 ### AI Quality Scoring
-![Quality Scoring](screenshots/quality-scoring.png)
 *Automated argument evaluation with detailed breakdowns*
+<img width="886" height="740" alt="image" src="https://github.com/user-attachments/assets/6b9a32eb-066c-4b70-b4eb-d39704e21e51" />
+
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
 *Platform moderation and user management*
+<img width="1165" height="357" alt="image" src="https://github.com/user-attachments/assets/2b19b3d9-e041-468b-97eb-5cfeae362deb" />
+
 
 ---
 
@@ -338,9 +343,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
  nana_addae@yahoo.com
-
-Project Link: [https://github.com/yourusername/ai-debate-platform](https://github.com/yourusername/ai-debate-platform)
-
 ---
 
 ## 📊 Stats
@@ -355,7 +357,4 @@ Project Link: [https://github.com/yourusername/ai-debate-platform](https://githu
 
 **Built with ❤️ and AI**
 
---
-- Add a LICENSE file if you want
 
-Save this as `README.md` in your project root! 🎉
